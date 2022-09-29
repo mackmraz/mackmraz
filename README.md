@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mackmraz
 - 👀 I’m interested in ... Coding, traveling, sleek design
 - 🌱 I’m currently learning ... HTML, CSS and Java
-- 💞️ I’m looking to collaborate on ... Learning the above languages
+- 🧑‍💻 I’m looking to collaborate on ... Learning the above languages
 - 📫 How to reach me ... mackmraz@gmail.com
 
 <!---
